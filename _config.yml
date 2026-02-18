@@ -5,3 +5,9 @@ author:
   name: Ruohai
 url: "https://ruohai0925.github.io"
 show_excerpts: true
+
+giscus:
+  repo: ruohai0925/ruohai0925.github.io
+  repo_id: PLACEHOLDER
+  category: General
+  category_id: PLACEHOLDER
