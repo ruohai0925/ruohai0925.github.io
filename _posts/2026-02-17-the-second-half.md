@@ -2,7 +2,7 @@
 layout: post
 title: "The Second Half of Computational Fluid Dynamics"
 date: 2026-02-17
-author: ZDSJTU
+author: Yadong
 permalink: /The-Second-Half/
 ---
 
