@@ -6,8 +6,6 @@ author: Ruohai
 permalink: /The-Second-Half/
 ---
 
-## Education and Industrial Application
-
 > **tldr:** AI will reshape the education and various industrial applications of Computational Fluid Dynamics, from code development to human-computer interaction.
 
 In April 2025, Shunyu Yao, a researcher at OpenAI, published an article titled [*The Second Half*](https://ysymyth.github.io/The-Second-Half/). Now, on February 17, 2026—approximately a year later—I have profoundly felt the potential and massive impact of AI on my industry, **Computational Fluid Dynamics (CFD)**. This realization compelled me to write this article.
