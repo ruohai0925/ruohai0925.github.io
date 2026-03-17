@@ -59,3 +59,5 @@ In any case, I believe that the education and industrial application of Computat
 ---
 
 *February 17, 2026*
+
+*Ruohai — Senior Software Developer & CFD Lover. Reach me at [zdsjtu@gmail.com](mailto:zdsjtu@gmail.com).*

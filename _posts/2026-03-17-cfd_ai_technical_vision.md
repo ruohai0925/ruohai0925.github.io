@@ -1751,3 +1751,7 @@ This is the paradigm leap from "using tools" to "directly manipulating underlyin
 ---
 
 *This document is a Living Document that will be continuously updated as technical validation and product iteration progress.*
+
+---
+
+*Ruohai — Senior Software Developer & CFD Lover. Reach me at [zdsjtu@gmail.com](mailto:zdsjtu@gmail.com).*
