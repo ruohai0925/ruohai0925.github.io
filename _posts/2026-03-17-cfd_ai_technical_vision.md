@@ -6,6 +6,8 @@ author: Ruohai
 permalink: /CFD-AI-Technical-Vision/
 ---
 
+> **tldr:** Stop building monolithic CFD solvers. Instead, let AI assemble a disposable, case-specific solver from pre-verified atomic building blocks — distilled from OpenFOAM, SU2, FEniCS, and beyond — and deliver it as a zero-friction Web app the client can use without ever knowing what CFD stands for.
+
 **Document Version**: v0.3
 **Created**: March 17, 2026
 **Last Updated**: March 17, 2026
