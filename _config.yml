@@ -1,10 +1,13 @@
 theme: minima
 title: Ruohai's Blog
-description: Thoughts on CFD and AI
+description: Exploring the intersection of Computational Fluid Dynamics and AI
 author:
   name: Ruohai
 url: "https://ruohai0925.github.io"
 show_excerpts: true
+
+header_pages:
+  - about.md
 
 giscus:
   repo: ruohai0925/ruohai0925.github.io
