@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## Get in Touch
-
 Feel free to leave a comment on any blog post via the Giscus comment section, or reach out through [GitHub](https://github.com/ruohai0925).
