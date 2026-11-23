@@ -1,6 +1,6 @@
 # Yadong's Blog
 
-Personal blog exploring the intersection of **Computational Fluid Dynamics (CFD)** and **Artificial Intelligence**.
+Personal blog exploring the intersection of **Computer-Aided Engineering (CAE)** and **Artificial Intelligence**.
 
 **Live site**: [ruohai0925.github.io](https://ruohai0925.github.io)
 
